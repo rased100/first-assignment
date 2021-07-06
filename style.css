@@ -56,3 +56,34 @@ body{
     width: 25%;
     margin-left: 45px;
 }
+
+.followers{
+    display: flex;
+    box-shadow: 0px 0px 20px 2px #888888;
+    margin: 100px;
+    border-radius: 20px;
+}
+.c-followers{
+    margin: 0 20px 0 20px;
+    font-size: 20px;
+    font-weight: 100;
+}
+.c-followers p{
+    font-size: 10px;
+}
+
+footer{
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.sp-one{
+    color: orange;
+}
+.sp-two{
+    color: rgb(61, 60, 56);
+}
+footer p{
+    font-size: 10px;
+}
