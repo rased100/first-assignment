@@ -1,6 +1,28 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
+
+.email{
+    background-color: tomato;
+    padding: 10px;
+}
+.email p{
+    display: inline;
+}
+.l-btn{
+    margin-left: 700px;
+    background: linear-gradient(to right, red, orange);
+    border-radius: 5px;
+}
+.s-btn{
+    margin-left: 670px;
+    background: linear-gradient(to right, red, orange);
+    border-radius: 5px;
+}
+
+
+
 .flex {
     padding: 51px;
     display: flex;
